@@ -1,9 +1,4 @@
-package main
-
-import "fmt"
-
-
-package main
+package models
 
 type Account struct {
 	ID         int
